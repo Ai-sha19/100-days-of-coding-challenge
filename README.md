@@ -1,1 +1,1 @@
-This is the100 Days Of Coding Challenge | Typescript
+This is the 100 Days Of Coding Challenge | Typescript
